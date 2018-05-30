@@ -1,4 +1,4 @@
-# Sample GitBook Application
+# Sample Jyrel's GitBook Application
 
 This is a sample gitbook application. Please see the following for more detail. 
 
